@@ -1,1 +1,1 @@
-tinydb
+tinydb==4.4.0
